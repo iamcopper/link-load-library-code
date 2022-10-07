@@ -1,5 +1,8 @@
 /**
- * tiny hello world.
+ * tiny hello world
+ *
+ * Note:
+ * Has changed code for building on x86_64
  *
  * Build:
  * gcc -c -fno-builtin helloworld.c
